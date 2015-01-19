@@ -1,0 +1,21 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=vrn exchange rates
+Name[nl]=vrn exchange rates
+Comment=USD/RUB exchange rates for Voronezh region, based on banki.ru
+Icon=icon.svg
+
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=python
+X-Plasma-MainScript=/code/main.py
+
+X-KDE-PluginInfo-Author=Paul Popoff
+X-KDE-PluginInfo-Email=oc14@ya.ru
+X-KDE-PluginInfo-Name=vrn-exchange-rates
+X-KDE-PluginInfo-Category=Environment
+X-KDE-PluginInfo-Version=0.3
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=Apache 2.0
+X-KDE-PluginInfo-EnabledByDefault=true

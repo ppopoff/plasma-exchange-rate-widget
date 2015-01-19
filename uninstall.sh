@@ -1,0 +1,1 @@
+plasmapkg -r exchange-rate
